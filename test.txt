@@ -1,0 +1,13 @@
+img dab.png
+start_animation dab
+desc A Stickmen Dabbing
+ax-ay-bx-by
+16-0-31-16
+32-0-47-15
+end
+start_animation dab2
+desc A Stickmen Dabbing
+ax-ay-bx-by
+16-0-31-16
+32-0-47-15
+end
